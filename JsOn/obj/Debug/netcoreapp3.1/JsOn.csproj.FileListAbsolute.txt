@@ -1,0 +1,16 @@
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.AssemblyInfo.cs
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.exe
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.deps.json
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.runtimeconfig.json
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.dll
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\JsOn.pdb
+C:\Users\ibm\source\repos\JsOn\JsOn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.csproj.CopyComplete
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.dll
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.pdb
+C:\Users\ibm\source\repos\JsOn\JsOn\obj\Debug\netcoreapp3.1\JsOn.genruntimeconfig.cache

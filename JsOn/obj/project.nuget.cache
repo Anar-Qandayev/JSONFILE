@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvRQj8hmxtOuodABk+BKoRU1PKW8IijKA+IQA3r+skqOIQbrgXVnjHI1PAjcdO+JlJStBZHh9bWrtxGmtgc5vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibm\\source\\repos\\JsOn\\JsOn\\JsOn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
