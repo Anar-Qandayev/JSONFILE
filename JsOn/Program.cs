@@ -26,12 +26,12 @@ namespace JsOn
             //Order order2 = new Order { Id = 2, OrderItems = orderItems2 };
             //var jsonObj = JsonConvert.SerializeObject(order1);
             //Console.WriteLine(jsonObj);
-            //using (StreamWriter sw = new StreamWriter(@"C:\Users\ibm\source\repos\JsOn\JsOn\File\json1.json"))
+            //using (StreamWriter sw = new StreamWriter(@"C:\Users\tu7bxfga8\Desktop\New folder\JSONFILE\JsOn\File\json1.json"))
             //{
             //    sw.WriteLine(jsonObj);
             //}
             string result;
-            using (StreamReader sr = new StreamReader(@"C:\Users\ibm\source\repos\JsOn\JsOn\File\json1.json"))
+            using (StreamReader sr = new StreamReader(@"C:\Users\tu7bxfga8\Desktop\New folder\JSONFILE\JsOn\File\json2.json"))
             {
                 result = sr.ReadToEnd();
             }
